@@ -13,9 +13,9 @@ Bootstrapious Boilerplate Template
 * =====================
 *
 */
-/* [data-animate] {
+[data-animate] {
   visibility: hidden;
-} */
+}
 
 .animated {
   visibility: visible;
@@ -119,12 +119,12 @@ section {
 }
 
 /*
-  *
-  * =====================
-  * NAVBAR
-  * =====================
-  *
-  */
+*
+* =====================
+* NAVBAR
+* =====================
+*
+*/
 nav.navbar {
   padding-top: 0;
   padding-bottom: 0;
@@ -181,12 +181,12 @@ nav.navbar a.nav-link:hover {
 }
 
 /*
-  *
-  * =====================
-  * INTRO
-  * =====================
-  *
-  */
+*
+* =====================
+* INTRO
+* =====================
+*
+*/
 .intro-section {
   padding-top: 150px;
   color: #fff;
@@ -210,12 +210,12 @@ nav.navbar a.nav-link:hover {
 }
 
 /*
-  *
-  * =====================
-  * ABOUT
-  * =====================
-  *
-  */
+*
+* =====================
+* ABOUT
+* =====================
+*
+*/
 .about-section .skill-item {
   margin-bottom: 20px;
 }
@@ -252,12 +252,12 @@ nav.navbar a.nav-link:hover {
 }
 
 /*
-  *
-  * =====================
-  * SERVICES
-  * =====================
-  *
-  */
+*
+* =====================
+* SERVICES
+* =====================
+*
+*/
 .services-section hr {
   border-color: #fff;
 }
@@ -272,12 +272,12 @@ nav.navbar a.nav-link:hover {
 }
 
 /*
-  *
-  * =====================
-  * TESTIMONIALS
-  * =====================
-  *
-  */
+*
+* =====================
+* TESTIMONIALS
+* =====================
+*
+*/
 .testimonials {
   padding: 0;
   margin-bottom: 40px;
@@ -374,12 +374,12 @@ nav.navbar a.nav-link:hover {
 }
 
 /*
-  *
-  * =====================
-  * SHOWCASE
-  * =====================
-  *
-  */
+*
+* =====================
+* SHOWCASE
+* =====================
+*
+*/
 .statistics-section {
   padding-top: 120px;
   padding-bottom: 120px;
@@ -407,12 +407,12 @@ nav.navbar a.nav-link:hover {
 }
 
 /*
-  *
-  * =====================
-  * REFERENCES
-  * =====================
-  *
-  */
+*
+* =====================
+* REFERENCES
+* =====================
+*
+*/
 #filter {
   text-align: center;
   margin: 20px 0;
@@ -562,46 +562,46 @@ nav.navbar a.nav-link:hover {
 }
 
 /*
-  *
-  * =====================
-  * CUSTOEMRS
-  * =====================
-  *
-  */
+*
+* =====================
+* CUSTOEMRS
+* =====================
+*
+*/
 .customers-section img {
   padding: 10px;
   max-width: 80px;
 }
 
 /*
-  *
-  * =====================
-  * CONTACT
-  * =====================
-  *
-  */
+*
+* =====================
+* CONTACT
+* =====================
+*
+*/
 .form-control {
   margin-bottom: 20px;
 }
 
 /*
-  *
-  * =====================
-  * MAP
-  * =====================
-  *
-  */
+*
+* =====================
+* MAP
+* =====================
+*
+*/
 #map {
   height: 400px;
 }
 
 /*
-  *
-  * =====================
-  * FOOTER
-  * =====================
-  *
-  */
+*
+* =====================
+* FOOTER
+* =====================
+*
+*/
 footer.main-footer {
   padding: 60px 0;
   background: #222;
@@ -658,12 +658,12 @@ footer.main-footer p.template-bootstrapious a {
 }
 
 /*
-  
-  =====================
-  STYLE SWITCHER FOR DEMO
-  =====================
-  
-  */
+
+=====================
+STYLE SWITCHER FOR DEMO
+=====================
+
+*/
 #style-switch-button {
   position: fixed;
   top: 120px;
@@ -688,11 +688,11 @@ footer.main-footer p.template-bootstrapious a {
 }
 
 /* =========================================
-     THEMING OF BOOTSTRAP COMPONENTS
-     ========================================= */
+   THEMING OF BOOTSTRAP COMPONENTS
+   ========================================= */
 /*
-   * 1. NAVBAR
-   */
+ * 1. NAVBAR
+ */
 .navbar {
   padding: 0.5rem 1rem;
 }
@@ -798,8 +798,8 @@ footer.main-footer p.template-bootstrapious a {
 }
 
 /*
-   * 2. BUTTONS
-   */
+ * 2. BUTTONS
+ */
 .btn {
   font-weight: 400;
   border: 1px solid transparent;
@@ -1516,8 +1516,8 @@ footer.main-footer p.template-bootstrapious a {
 }
 
 /*
-   * 3. TYPE
-   */
+ * 3. TYPE
+ */
 body {
   font-family: "Roboto", sans-serif;
   font-size: 1rem;
@@ -1657,8 +1657,8 @@ a.text-primary:focus {
 }
 
 /*
-   * 4. PAGINATION
-   */
+ * 4. PAGINATION
+ */
 .page-item:first-child .page-link {
   border-top-left-radius: 0.25rem;
   border-bottom-left-radius: 0.25rem;
@@ -1730,8 +1730,8 @@ a.text-primary:focus {
 }
 
 /*
-  * 5. UTILITIES
-  */
+* 5. UTILITIES
+*/
 .bg-primary {
   background-color: #4fbfa8 !important;
 }
@@ -2021,8 +2021,8 @@ a.text-dark:focus {
 }
 
 /*
-    * 6. FORMS
-    */
+  * 6. FORMS
+  */
 .form-control {
   padding: 0.45rem 0.75rem;
   font-size: 1rem;
@@ -2341,16 +2341,16 @@ select.form-control-lg:not([size]):not([multiple]) {
 }
 
 /*
-  * 7.CODE
-  */
+* 7.CODE
+*/
 code {
   font-size: 87.5%;
   color: #e83e8c;
 }
 
 /*
-  * 8. NAV
-  */
+* 8. NAV
+*/
 .nav-link {
   padding: 0.5rem 1rem;
 }
@@ -2399,8 +2399,8 @@ code {
 }
 
 /*
-  * 9. CARD
-  */
+* 9. CARD
+*/
 .card {
   background-color: #fff;
   border: 1px solid rgba(0, 0, 0, 0.125);
@@ -2505,7 +2505,4 @@ code {
     margin-right: 15px;
     margin-left: 15px;
   }
-}
-a:hover i {
-  transform: scale(1.5);
 }
